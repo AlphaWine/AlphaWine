@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis, visualisation. 
 - 🌱 I’m currently learning python, excel and PowerBi.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kdong@totalwine.com
+- 📫 How to reach me kaimagnetics@gmail.com
 
 <!---
 AlphaWine/AlphaWine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
